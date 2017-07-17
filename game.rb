@@ -1,5 +1,8 @@
 status = {:money => 500.00, :blood_alcohol => 0}
+
+
 puts "Welcome to Saturday Night!: The Miami Night Life Adventure Game"
+puts "A game by Alex."
 
 puts "9:34 PM You've woken up from your after work nap. You've got an hour until Victoria's pre-game in
 Brickell. You spend some time Snapchat stalking to see what people are up to tonight."
